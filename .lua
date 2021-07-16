@@ -3244,4 +3244,4 @@ function DiscordLib:Window(text)
 	end
 	return ServerHold
 end
-return DiscordLibw
+return DiscordLib
